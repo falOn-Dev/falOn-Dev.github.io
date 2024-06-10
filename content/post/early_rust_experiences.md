@@ -2,8 +2,10 @@
 title = 'Early Experienced w/ Rust'
 date = 2024-06-10T16:43:59-04:00
 draft = false
+pin = false
 summary = "Thoughts and opinions about Rust from a first look"
 tags = ["rust", "languages", "short"]
+categories = []
 +++
 
 I've spent the last few weeks reading through the rust book and I figured it might be worth putting some of my thoughts down on paper, so here it is.
