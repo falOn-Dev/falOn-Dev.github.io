@@ -9,3 +9,5 @@ draft = false
 This serves as a collection of progress reports, random thoughts, and the like.
 
 For more detailed reports on finalized projects, visit [My Wiki](https://falon-dev.github.io/falOn-Dev/)
+
+This Hugo Project's repo is located [Here](https://github.com/falOn-Dev/falOn-Dev.github.io)
