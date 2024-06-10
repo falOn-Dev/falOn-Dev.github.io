@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "FalOn's Blog"
+
+theme = 'github-style'
+
+
+[params]
+  author = "Falon"
+  github = "falOn-Dev"
+  description = "In this world, it's either cook or get cooked chump."
+  email = "falon@team2537.com"
+  location = "The Shop"
