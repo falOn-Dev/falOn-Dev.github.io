@@ -11,3 +11,4 @@ theme = 'github-style'
   description = "In this world, it's either cook or get cooked chump."
   email = "falon@team2537.com"
   location = "The Shop"
+  headerIcon = "https://raw.githubusercontent.com/primer/octicons/345a8f5915b6ec4ff6cca3eb1ae76cb4744ba2de/icons/cpu-24.svg"
