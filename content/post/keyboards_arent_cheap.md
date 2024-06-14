@@ -1,7 +1,7 @@
 +++
 title = "Keyboards aren't cheap"
 date = 2024-06-14T01:13:57-04:00
-draft = true
+draft = false
 pin = false
 summary = "Why I started, and didn't finish my custom keyboard: What I learned making a keyboard PCB"
 tags = ["cad", "electrical"]
@@ -38,3 +38,12 @@ I decided this time I would design the entire left half first, the PCB, case, an
 
 Knowing this I had to make a decision, do I finish the project, knowing I can't build it, or do I cut my losses and just finish the left half. I decided to call a time-out for now, leaving the right half unfinished, largely because I still accomplished most of what I set out to do with this project. I learned the basics of Fusion360 electronic design, and even some more advanced features. This is a project I would love to pick back up in a little while, if I find myself with more funding to throw at a project like this, but until then, I'm very happy with what I did.
 
+### Conclusion
+
+Alright, what did I learn?
+- Fusion360's Electronics Design Suite
+- QMK Firmware Creation
+- The Importance of Constraints
+- How expensive PCBs are!
+
+With all of that in mind, although I didn't actually build the keyboard, I'd consider this project a success.
