@@ -18,6 +18,8 @@ Like any project, it needed to start with an idea, unfortunately this was a prob
 
 With these decisions in mind, I began work on the layout in [KLE](http://www.keyboard-layout-editor.com/), creating a sort of warped 60% keyboard for the left half, and a strange amalgamation of the numpad, navigation, and arrow keys. Once finished with that I moved on to the design process!
 
+![Left Side Layout](keyboard_left_layout.png)
+
 ### Design First, Think Later
 
 My first designs for the left and right PCBs were understandably mid. This was largely a project to teach myself how to use Fusion360's electronics design suite, so I wasn't expecting to get it right the first time. I decided I wanted to do all throughole as I am a very inexperienced solder-er. Being completely new to F360 ECad meant that this took significantly longer than it really should've (largely because I didn't know there was a script to snap stuff to your grid after changing it). 
@@ -37,6 +39,8 @@ I won't be as detailed with talking about the second design as it was much less 
 I decided this time I would design the entire left half first, the PCB, case, and key plate, before moving on to the right side. This would (theoretically) allow me to catch any major mistakes earlier on, and it certainly did. Once I had designed the PCB, and started on the case, I decided to get an estimate from PCBway. What I saw was unsurprising, but unfortunate, to manufacture these PCBs, it would cost around sixty dollars per PCB, leading to a nearly 300 dollar cost for the minimum order of five of them.
 
 Knowing this I had to make a decision, do I finish the project, knowing I can't build it, or do I cut my losses and just finish the left half. I decided to call a time-out for now, leaving the right half unfinished, largely because I still accomplished most of what I set out to do with this project. I learned the basics of Fusion360 electronic design, and even some more advanced features. This is a project I would love to pick back up in a little while, if I find myself with more funding to throw at a project like this, but until then, I'm very happy with what I did.
+
+![Left Keyboard PCB](keyboard_left_half_render.png)
 
 ### Conclusion
 
