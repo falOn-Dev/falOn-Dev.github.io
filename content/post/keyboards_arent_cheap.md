@@ -5,7 +5,7 @@ draft = false
 pin = false
 summary = "Why I started, and didn't finish my custom keyboard: What I learned making a keyboard PCB"
 tags = ["cad", "electrical"]
-categories = ["projects"]
+categories = ["projects", "keyboard"]
 +++
 
 As the title suggests, I recently took up the project of designing a custom keyboard PCB, case, and firmware (using QMK). As the title *also* suggests, I didn't finish it.
