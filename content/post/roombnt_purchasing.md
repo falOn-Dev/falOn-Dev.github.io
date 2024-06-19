@@ -3,7 +3,7 @@ title = "Roomba Bot Project: Purchasing"
 date = 2024-06-15T14:55:11-04:00
 draft = false
 pin = false
-summary = "New Post"
+summary = "Beginning of roomba modification project"
 tags = ["robotics"]
 categories = ["projects", "roomba_bot"]
 +++
