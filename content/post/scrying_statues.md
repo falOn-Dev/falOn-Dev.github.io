@@ -1,9 +1,9 @@
 +++
 title = "Scrying Statues"
 date = 2024-07-13T22:01:19-04:00
-draft = true
+draft = false
 pin = false
-summary = "New Post"
+summary = "Scrying Statues - Minecraft Mod Programming Report"
 tags = ["programming", "modding"]
 categories = ["projects"]
 +++
@@ -31,3 +31,5 @@ One of the main interesting things I needed to do to get this to work, was to cr
 This was a great project, both for staying familiar with kotlin during my robotics team's off season, and giving me a new opportunity to put more work out there for people to see what I'm capable of. I intend to create more mods at some later date, but I need to come up with the next idea first.
 
 If you made it to the end of this blog post, I hope you enjoyed or learned something interesting, feel free to reach out if you have any more questions!
+
+The mod is currently published on modrinth [here](https://modrinth.com/mod/scrying-statues)!
