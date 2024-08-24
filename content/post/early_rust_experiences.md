@@ -4,7 +4,7 @@ date = 2024-06-10T16:43:59-04:00
 draft = false
 pin = false
 summary = "Thoughts and opinions about Rust from a first look"
-tags = ["rust", "languages", "short"]
+tags = ["research", "programming"]
 categories = []
 +++
 
