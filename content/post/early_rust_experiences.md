@@ -1,7 +1,7 @@
 +++
 title = 'Early Experienced w/ Rust'
 date = 2024-06-10T16:43:59-04:00
-draft = false
+draft = true 
 pin = false
 summary = "Thoughts and opinions about Rust from a first look"
 tags = ["research", "programming"]
